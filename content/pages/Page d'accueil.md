@@ -1,4 +1,4 @@
-title: Page d'acceuil
+title: Page d'accueil
 order: 1
 URL:
 save_as: index.html
