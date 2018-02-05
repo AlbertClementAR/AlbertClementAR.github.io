@@ -3,7 +3,7 @@ order: 2
 
 ### **2018**
 
-**Pré-publications**
+**Pre-publications**
 
 * C. Albert, A. Dutfoy & S. Girard, *"Asymptotic behavior of the extrapolation error associated with the estimation of extreme quantiles"*, [(HAL)](https://hal.inria.fr/hal-01692544).
 
