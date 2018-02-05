@@ -5,7 +5,7 @@ save_as: index.html
 
 ### **Présentation**
 
-Je suis doctorant en statistiques au sein de l'équipe prijet [MISTIS](https://mistis.inrialpes.fr/), équipe commune [INRIA Grenoble Rhône-Alpes](https://www.inria.fr/centre/grenoble) et [LJK](http://www-ljk.imag.fr/). 
+Je suis doctorant en statistiques au sein de l'équipe projet [MISTIS](https://mistis.inrialpes.fr/), équipe commune [INRIA Grenoble Rhône-Alpes](https://www.inria.fr/centre/grenoble) et [LJK](http://www-ljk.imag.fr/). 
 
 Ma thèse s'intitule "Quantification des limites de crédibilité d'extrapolation par des lois de valeurs extrêmes" et est la continuité de mon stage de Master 2 intitutilé "[Etude de la robustesse d’une modélisation de valeurs extrêmes](www.gdr-mascotnum.fr/media/offredestage2015-edf-inria.pdf)".
 
