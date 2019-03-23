@@ -3,15 +3,21 @@ order: 4
 
 **Adresse**
 
-INRIA Grenoble Rhône-Alpes
+Centre de Mathématiques appliquées (CMAP)
 
-655 avenue de l’Europe
+Ecole Polytechnique
 
-38330, Montbonnot Saint-Martin
+Route de Saclay
+
+91128 Palaiseau
 
 **E-mail**
 
-clement.albert@inria.fr
+clement.albert@polytechnique.edu
+
+**Téléphone**
+
++33 (0)6 48 17 49 65
 
 
 

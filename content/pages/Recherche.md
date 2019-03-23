@@ -1,13 +1,13 @@
 title: Recherche
 order: 2
 
-### **2018**
+**Publications**
+
+* C. Albert, A. Dutfoy, L.Gardes & S. Girard. "An extreme quantile estimator for the log-generalized Weibull-tail model", *Econometrics and Statistics*, to appear, 2019. 
 
 **Pre-publications**
 
-* C. Albert, A. Dutfoy & S. Girard, *"Asymptotic behavior of the extrapolation error associated with the estimation of extreme quantiles"*, [(HAL)](https://hal.inria.fr/hal-01692544).
-
-### **2017**
+* C. Albert, A. Dutfoy & S. Girard, *"Asymptotic behavior of the extrapolation error associated with the estimation of extreme quantiles"*, [(HAL)](https://hal.inria.fr/hal-01692544), submitted, 2019.
 
 **Conférences internationales**
 
@@ -18,8 +18,6 @@ order: 2
 **Conférences nationales**
 
 * C. Albert, A. Dutfoy & S. Girard. *"Etude de l'erreur relative d'approximation des quantiles extrêmes"*, 49èmes Journées de Statistique organisées par la Société Française de Statistique, Avignon, 2017. [(lien)](http://jds2017.sfds.asso.fr/)[(HAL)](https://hal.archives-ouvertes.fr/hal-01533220)
-
-### **2016**
 
 **Conférences nationales**
 
