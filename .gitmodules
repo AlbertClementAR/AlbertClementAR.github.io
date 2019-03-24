@@ -1,0 +1,6 @@
+[submodule "plugins/pelican-cite"]
+	path = plugins/pelican-cite
+	url = https://github.com/cmacmackin/pelican-cite.git
+[submodule "themes/Flex"]
+	path = themes/Flex
+	url = https://github.com/alexandrevicenzi/Flex.git

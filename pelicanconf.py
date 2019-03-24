@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Cl\xe9ment Albert'
 SITETITLE = u'Cl\xe9ment Albert'
-SITESUBTITLE = u'Doctorant en Mathématiques Appliquées'
+SITESUBTITLE = u'Post-Doctorant en Mathématiques Appliquées'
 SITENAME = u'Cl\xe9ment Albert'
 SITEURL = ''
 
